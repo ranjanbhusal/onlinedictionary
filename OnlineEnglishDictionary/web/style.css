@@ -1,0 +1,43 @@
+/* 
+    Created on : Dec 17, 2018, 9:59:50 PM
+    Author     : ranjan
+*/
+body{
+    margin: auto;
+    width: 80%;
+    padding: 0px;
+    font-family: verdana, tahoma, sans-serif;
+    font-size: 10pt;
+}
+
+#displayResult{
+    border: 2px solid grey;
+    text-align: left;
+    padding: 2px;
+}
+
+#searchItem {
+   background-color: #d2eaff; 
+   padding: 4px;
+   text-align: left;
+   margin: auto;
+}
+
+.header {
+    background-color: #87c7ff;
+    padding: 1px;
+    text-align: left;
+}
+
+h1{
+    padding: 0px;
+}
+
+#loadImg {
+    width: 20px;
+    height: 20px;
+}
+
+
+
+
