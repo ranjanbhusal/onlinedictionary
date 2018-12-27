@@ -11,7 +11,7 @@ body{
 }
 
 #displayResult{
-    border: 2px solid grey;
+    border: 4px solid grey;
     text-align: left;
     padding: 2px;
 }
@@ -25,8 +25,12 @@ body{
 
 .header {
     background-color: #87c7ff;
-    padding: 1px;
-    text-align: left;
+    padding-left: 4px;
+    padding-right: 1px;
+	padding-bottom: 1px;
+	padding-top: 1px;
+	text-align: left;
+    color: aliceblue;
 }
 
 h1{
@@ -34,8 +38,8 @@ h1{
 }
 
 #loadImg {
-    width: 20px;
-    height: 20px;
+    width: 40px;
+    height: 40px;
 }
 
 

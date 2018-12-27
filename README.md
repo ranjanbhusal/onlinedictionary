@@ -14,3 +14,5 @@ use of ajax call and loading gif has been implemented during the wait period of 
 To use this project you need to import 4 jar files - 3 for converting GSON TO JSON and 1 jar file 
 for connecting mysql. The jar file are included in the src folder.
 
+This project is done in Netbeans as web application project using glassfish as the web server.
+
