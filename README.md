@@ -1,9 +1,13 @@
 # onlinedictionary
 
 SCHOOL: Maharishi University of Management
+
 PROJECT TITLE: Online Dictionary
+
 CLASS: Web Application Programming
+
 PROJECT DATES: 12/20/2018
+
 PROJECT DESCRIPTION: This is the online web-application based dictionary project that uses SQL dictionary. The SQL dictionary is an open source dictionary found in the internet.
 
 Used NetBeans IDE for application development and glassfish as the web server.
